@@ -1,0 +1,10 @@
+You are in game here your purpose is to reach to your destination.
+On your way you will see food, that you can eat. weapons that you can equip.
+And, enemies, you have to kill enemies to move ahead of them.
+
+Once you reach your destination you can move to new level.
+If you think you are getting killed again and again try searching around for food, weapon.
+You can equip maximum one weapon at a time. But don't worry, each time you equip a weapon
+attack from previous one will not go away from you.
+
+Disclaimer: The game play may sound rude it is designed like that only.

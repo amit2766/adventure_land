@@ -1,0 +1,182 @@
+[
+  {
+    "coordinates": "0,0",
+    "direction": "E",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "start",
+    "hint": "starting location go east from here"
+  },
+  {
+    "coordinates": "1,0",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "none"
+  },
+  {
+    "coordinates": "2,0",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "none"
+  },
+  {
+    "coordinates": "3,0",
+    "direction": "NEW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "go up"
+  },
+  {
+    "coordinates": "4,0",
+    "direction": "W",
+    "weapon": "knife",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "this is a knife will help you in fighting"
+  },
+  {
+    "coordinates": "0,1",
+    "direction": "NE",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "go up"
+  },
+  {
+    "coordinates": "1,1",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "promethean",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "Enemy ahead. To kill the enemy you should have stats better than enemy. "
+  },
+  {
+    "coordinates": "2,1",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "burger",
+    "location_type": "regular",
+    "hint": "Eat the burger it will help in in fighting against enemy"
+  },
+  {
+    "coordinates": "3,1",
+    "direction": "EWS",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "none"
+  },
+  {
+    "coordinates": "4,1",
+    "direction": "W",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "go back"
+  },
+  {
+    "coordinates": "0,2",
+    "direction": "ES",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "go ahead"
+  },
+  {
+    "coordinates": "1,2",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "burger",
+    "location_type": "regular",
+    "hint": "eat something"
+  },
+  {
+    "coordinates": "2,2",
+    "direction": "NEW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "go up"
+  },
+  {
+    "coordinates": "3,2",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "none"
+  },
+  {
+    "coordinates": "4,2",
+    "direction": "W",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "nothing ahead go back"
+  },
+  {
+    "coordinates": "0,3",
+    "direction": "E",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "go back"
+  },
+  {
+    "coordinates": "1,3",
+    "direction": "EW",
+    "weapon": "sword",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "sword is better than knife"
+  },
+  {
+    "coordinates": "2,3",
+    "direction": "EWS",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "none"
+  },
+  {
+    "coordinates": "3,3",
+    "direction": "EW",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "regular",
+    "hint": "none"
+  },
+  {
+    "coordinates": "4,3",
+    "direction": "W",
+    "weapon": "none",
+    "enemy": "none",
+    "food": "none",
+    "location_type": "destination",
+    "hint": "you have reached your destination"
+  }
+]

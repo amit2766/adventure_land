@@ -1,0 +1,13 @@
+[
+  {
+    "name" : "promethean",
+    "description" :"Made up of clay. According to stories when they are destroyed, two smaller Prometheans are formed from the clay of the first only smaller.",
+    "type": "melee",
+    "health" : 20,
+    "attack" :5,
+    "defense" : 10,
+    "agility" :10,
+    "experience" : 10,
+    "level" :1
+  }
+]

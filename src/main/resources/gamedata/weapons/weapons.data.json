@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knife",
+    "description": "A knife. What do you want to know about knife?",
+    "attack": 5,
+    "weight": 10,
+    "type": "meele",
+    "range": 0
+  },
+  {
+    "name": "sword",
+    "description": "All I know about sword is stick em with pointy end",
+    "attack": 15,
+    "weight": 30,
+    "type": "meele",
+    "range": 0
+  }
+]
